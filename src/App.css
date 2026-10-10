@@ -1,0 +1,22 @@
+h1{
+  color: rgb(0, 255, 157);
+}
+img{
+  border-radius: 50px;
+  width: 100px;
+  height: 100px;
+}
+h2{
+  color:aquamarine
+}
+p{
+  color :bisque
+}
+a{
+  color: rgb(188, 27, 156);
+  color: rgb(184, 20, 20);
+  padding: 30px 30PX;
+  border-radius: 10px;
+  font-size: 25px;
+  cursor: pointer;
+}
